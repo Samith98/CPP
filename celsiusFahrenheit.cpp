@@ -14,6 +14,6 @@ int main(){
     double input;
     cin>>input;
     cout<<toFahrenheit(input)<<endl;
-    cout<<toCelsius(toFahrenheit(input))<<endl;
+    // cout<<toCelsius(toFahrenheit(input))<<endl;
     return 0;
 }
